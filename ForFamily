@@ -7,10 +7,6 @@
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxOs7qfBZK1OcuVEuGTU7DFe5DSN1ARcHC6tg=s900-c-k-c0xffffffff-no-rj-mo" group-title="El_Dani" tvg-id="M Plus Elcano", Movistar Plus
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxOs7qfBZK1OcuVEuGTU7DFe5DSN1ARcHC6tg=s900-c-k-c0xffffffff-no-rj-mo" group-title="El_Dani" tvg-id="M Plus", Movistar Plus
-acestream://199190e3f28c1de0be34bccf0d3568dc65209b99
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxOs7qfBZK1OcuVEuGTU7DFe5DSN1ARcHC6tg=s900-c-k-c0xffffffff-no-rj-mo" group-title="El_Dani" tvg-id="M Plus", Movistar Plus
-acestream://5866e83279307bf919068ae7a0d250e4e424e464
 
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.png" group-title="El_Dani" tvg-id="M+ LaLiga HD Elcano", M. LaLiga
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
@@ -18,28 +14,20 @@ acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
 acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.png" group-title="El_Dani" tvg-id="M+ LaLiga HD Elcano", M. LaLiga
 acestream://4b528d10eaad747ddf52251206177573ee3e9f74
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.png" group-title="El_Dani" tvg-id="M+ LaLiga HD", M. LaLiga
-acestream://107c3ce5a5d2527c9f06e4eab87477201791f231
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.png" group-title="El_Dani" tvg-id="M+ LaLiga HD", M. LaLiga
-acestream://8c30b600cc48899991b452805df48b68d998e61c
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.png" group-title="El_Dani" tvg-id="M+ LaLiga 2", M. LaLiga 2
 acestream://51b363b1c4d42724e05240ad068ad219df8042ec
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1075242565118_image-header_pEs_1688456417000&quality=70" group-title="El_Dani" tvg-id="DAZN LaLigaHD Elcano", DAZN LaLiga
 acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1075242565118_image-header_pEs_1688456417000&quality=70" group-title="El_Dani" tvg-id="DAZN LaLigaHD Elcano", DAZN LaLiga
-acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
+acestream://4955867fad3bc92e5b4c36045699fc277800fb18
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1075242565118_image-header_pEs_1688456417000&quality=70" group-title="El_Dani" tvg-id="DAZN LaLigaHD", DAZN LaLiga
-acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1075242565118_image-header_pEs_1688456417000&quality=70" group-title="El_Dani" tvg-id="DAZN LaLigaHD", DAZN LaLiga
-acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
+acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1075242565118_image-header_pEs_1688456417000&quality=70" group-title="El_Dani" tvg-id="DAZN LaLigaHD 2", DAZN LaLiga 2
 acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 
 #EXTINF:-1 tvg-logo="https://cflvdg.avoz.es/sc/67I-8xMT5RnHJixKGyX6YlqF3XY=/768x/2023/07/03/00121688410746863246752/Foto/imaga.jpg" group-title="El_Dani" tvg-id="Hypermotion", 2ª División
 acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-#EXTINF:-1 tvg-logo="https://cflvdg.avoz.es/sc/67I-8xMT5RnHJixKGyX6YlqF3XY=/768x/2023/07/03/00121688410746863246752/Foto/imaga.jpg" group-title="El_Dani" tvg-id="Hypermotion", 2ª División
-acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a
 #EXTINF:-1 tvg-logo="https://cflvdg.avoz.es/sc/67I-8xMT5RnHJixKGyX6YlqF3XY=/768x/2023/07/03/00121688410746863246752/Foto/imaga.jpg" group-title="El_Dani" tvg-id="Hypermotion 2", 2ª División 2
 acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
 
@@ -47,24 +35,14 @@ acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones
 acestream://b028202ff335911db3118bceac027df3e8ef6c32
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones
-acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones
-acestream://0f7842f8b6c26571e5a974407b61623e56e6a052
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones
-acestream://f3eea003e23f94dc2d527306de9dd386e3ebf4ba
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES", M.L. Campeones
-acestream://afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES2", M.L. Campeones 2
 acestream://bb26037a253866d341778181eff5c8637240d615
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES2", M.L. Campeones 2
 acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES2", M.L. Campeones 2
 acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES2", M.L. Campeones 2
-acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="El_Dani" tvg-id="M+LCAMPEONES3", M.L. Campeones 3
-acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
+acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
 
 ***#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ELWkHpwBM48/YFxgPQtoIVI/AAAAAAAC8G4/fKirM13EGRwwoBkoYHRXwZxvKl7Fbhl0wCNcBGAsYHQ/s1600/all-new-copa-del-rey-logo%2B%25281%2529.jpg" group-title="El_Dani" tvg-id="M+ Copa", M.Copa
 acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
