@@ -14,6 +14,8 @@ acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
 acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.png" group-title="El_Dani" tvg-id="M+ LaLiga HD Elcano", M. LaLiga
 acestream://4b528d10eaad747ddf52251206177573ee3e9f74
+EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.png" group-title="El_Dani" tvg-id="M+ LaLiga HD Elcano", M. LaLiga
+acestream://af458073c3096293a4dea9f369d4f308e7125bd6
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.png" group-title="El_Dani" tvg-id="M+ LaLiga 2", M. LaLiga 2
 acestream://51b363b1c4d42724e05240ad068ad219df8042ec
 
