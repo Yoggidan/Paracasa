@@ -3,6 +3,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 #EXTM3U name-tvg="Parapapa"
 #EXTM3U autor-tvg="By Dan"
+#EXTINF:-1 
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxOs7qfBZK1OcuVEuGTU7DFe5DSN1ARcHC6tg=s900-c-k-c0xffffffff-no-rj-mo" group-title="El_Dani" tvg-id="M Plus Elcano", Movistar Plus
@@ -24,6 +25,8 @@ acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.png" group-title="El_Dani" tvg-id="M+ LaLiga 2", M. LaLiga 2
 acestream://51b363b1c4d42724e05240ad068ad219df8042ec
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.png" group-title="El_Dani" tvg-id="M+ LaLiga 4", M. LaLiga 4
+acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
 
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1075242565118_image-header_pEs_1688456417000&quality=70" group-title="El_Dani" tvg-id="DAZN LaLigaHD Elcano", DAZN LaLiga
